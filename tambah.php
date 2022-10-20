@@ -3,6 +3,11 @@
     
     </head>
     <body>
+        
+        <center>
+        <div style="max-width: 600px; margin: 3em auto">
+        <table border="1" width="100%";>
+
         <h3>Form Pendaftaran Pasien Baru</h3>
         <form action="proses-pendaftaran.php" method="POST">
         <form>
